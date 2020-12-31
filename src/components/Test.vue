@@ -19,9 +19,9 @@
           </tr>
         </draggable>
         <ul class="list-group" v-sortable>
-          <li class="list-group-item">Foo</li>
-          <li class="list-group-item">Bar</li>
-          <li class="list-group-item">Baz</li>
+          <li class="list-group-item">Foo1111111</li>
+          <li class="list-group-item">Bar111111111</li>
+          <li class="list-group-item">Baz1111111111</li>
         </ul>
       </table>
     </div>
