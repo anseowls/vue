@@ -6,9 +6,9 @@
       <table class="table table-striped">
         <thead class="thead-dark">
           <tr>
-            <th scope="col">Id</th>
-            <th scope="col">Name</th>
-            <th scope="col">Sport</th>
+            <th scope="col">Id11111</th>
+            <th scope="col">Name11111</th>
+            <th scope="col">Sport1111111</th>
           </tr>
         </thead>
         <draggable v-model="list" tag="tbody">
@@ -21,7 +21,7 @@
         <ul class="list-group" v-sortable>
           <li class="list-group-item">Foo</li>
           <li class="list-group-item">Bar</li>
-          <li class="list-group-item">Baz</li>fff
+          <li class="list-group-item">Baz</li>
         </ul>
       </table>
     </div>
