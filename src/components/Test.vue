@@ -21,7 +21,7 @@
         <ul class="list-group" v-sortable>
           <li class="list-group-item">Foo</li>
           <li class="list-group-item">Bar</li>
-          <li class="list-group-item">Baz</li>
+          <li class="list-group-item">Baz</li>fff
         </ul>
       </table>
     </div>
