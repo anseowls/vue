@@ -6,9 +6,9 @@
       <table class="table table-striped">
         <thead class="thead-dark">
           <tr>
-            <th scope="col">Id</th>
-            <th scope="col">Name</th>
-            <th scope="col">Sport</th>
+            <th scope="col">Id11111</th>
+            <th scope="col">Name11111</th>
+            <th scope="col">Sport1111111</th>
           </tr>
         </thead>
         <draggable v-model="list" tag="tbody">
